@@ -2,7 +2,7 @@
 
 <!--
 **sangeetha019/sangeetha019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 - 👋 Hi, I’m Sangeetha.
 - 👀 I’m interested in UI design.
 - 🌱 I’m currently learning HTML,CSS and JavaScript.
