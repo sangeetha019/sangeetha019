@@ -6,12 +6,12 @@
 - 👋 Hi, I’m Sangeetha.
 - 👀 I’m interested in UI design.
 - 🌱 Techs
-    👩🏻‍💻 JavaScript
-    💻  React JS
-    💻  Node JS
-    💻  MongoDB
-    💻  Mongoose
-    💻 Html & CSS
+    - JavaScript
+    -  React JS
+    -  Node JS
+    -  MongoDB
+    -  Mongoose
+    - Html & CSS
 
 I'm a web designer, good at UI design. I  know Html ,CSS, JavaScript.  I have an experience in E-pub job. Now, I am looking for a job. 
 <!--- 
